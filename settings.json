@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Robot",
     "password": "",
-    "type": "offline"
+    "type": "mojang"
   },
   "server": {
     "ip": "usfbulls.play.hosting",
-    "port": 25798,
+    "port": 25590,
     "version": "",
     "try-creative": false
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Hello!",
         "I like to play Minecraft!"
       ]
     },
